@@ -4,6 +4,10 @@
 
 Base URL: `https://parse.api-demoo.com`
 
+# KSHook API
+
+Base URL: `https://apihook.apifox.cn`
+
 ## 快速开始
 
 ```bash
