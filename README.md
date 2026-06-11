@@ -1,3 +1,5 @@
+<img src="img/KuaishouParse.png" width="100%" />
+
 # KSHook API 文档
 
 > 快手分享链接无水印解析 API — 仅供技术学习与研究使用
