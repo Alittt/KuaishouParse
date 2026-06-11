@@ -4,6 +4,10 @@
 
 Base URL: `https://parse.api-demoo.com`
 
+# 在线使用
+
+Base URL: `https://ks.api-demoo.com`
+
 # KSHook API
 
 Base URL: `https://apihook.apifox.cn`
